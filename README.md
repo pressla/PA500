@@ -9,11 +9,11 @@ This repo maintains many tests, mainly arduino tests for the PA Hardware.
 
 
 
-| Name | Link                                                         | Comment |
-| ---- | ------------------------------------------------------------ | ------- |
-|      | https://github.com/pressla/PA500/tree/master/LPF/LPFTest_I2C_interface |         |
-|      |                                                              |         |
-|      |                                                              |         |
+| Name            | Link                                                         | Comment |
+| --------------- | ------------------------------------------------------------ | ------- |
+| digital i tests | https://github.com/pressla/PA500/tree/master/LPF/LPFTest_I2C_interface |         |
+| I2C tests       |                                                              |         |
+|                 |                                                              |         |
 
 [LPF Test I2C control]: https://github.com/pressla/PA500/tree/master/LPF/LPFTest_I2C_interface	"Test Control"
 
